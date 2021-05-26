@@ -11,5 +11,6 @@ This is a project whose objective is to identify the diseases that highly contri
 There were no known bugs.
 ## Technologies Used
 * Python
+* Jira
 ### License
 Copyright (c) {2021} **{ALFRED NG'ANG'A, IMELDA NASIMIYU, IAN TIROK, SHARON SUKE,ANGELA NYUTU & MILDRED KULEI}**
