@@ -1,5 +1,5 @@
 # CHILD MORTALITY ANALYSIS
-#### {Data Analysis}, {28/05/2021}
+#### {Data Analysis}, {27/05/2021}
 #### By ALFRED, IMELDA, IAN, SHARON,ANGELA & MILDRED
 ## Description
 This is a project whose objective is to identify the diseases that highly contribute to child mortality in African regions per health expenditure, guiding the World Health Organisation on which diseases to priorities.
